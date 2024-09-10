@@ -1,0 +1,18 @@
+.header
+{
+    background: #ffbebe;
+    padding: 30px;
+    text-align: center;
+}
+
+.content-area
+{
+    padding: 30px;
+   min-height: 700px;
+}
+.footer
+ {
+     padding: 30px;
+    background: #757474;
+    text-align: center;
+ }
